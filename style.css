@@ -15,3 +15,6 @@
     background-color: #FCEAE8;
     border-radius: 1em;
 }
+header.container {
+    margin-bottom: 100px;
+}
