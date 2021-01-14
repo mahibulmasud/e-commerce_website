@@ -13,7 +13,9 @@
 }
 .panda-slide .carousel-item{
     background-color: #FCEAE8;
-    border-radius: 1em;
+}
+.panda-round{
+    border-radius: 1rem;
 }
 header.container {
     margin-bottom: 100px;
